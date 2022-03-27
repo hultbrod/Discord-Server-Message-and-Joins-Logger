@@ -63,7 +63,6 @@ async def audit(ctx):
     for member in ctx.message.guild.members:
         memberList.append(member)
     for a in memberList:
-        print(a)
         messageInfo = [str(a.display_name), str(a.bot), str(str(a.joined_at).split(' ')[0]),
                        str(str(a.joined_at).split(' ')[1].split('.')[0])]
         with open(filenameJoins, 'a', newline='', encoding="utf-8") as joinsCSV:
@@ -86,7 +85,6 @@ async def joins(ctx):
     for member in ctx.message.guild.members:
         memberList.append(member)
     for a in memberList:
-        print(a)
         messageInfo = [str(a.display_name), str(a.bot), str(str(a.joined_at).split(' ')[0]),
                        str(str(a.joined_at).split(' ')[1].split('.')[0])]
         with open(filenameJoins, 'a', newline='', encoding="utf-8") as joinsCSV:
