@@ -73,6 +73,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648416540795" />
+    <state x="1094" y="114" key="CommitChangelistDialog2" timestamp="1648418712481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648418712481" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1648416539172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,5 +121,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1136" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644891525416" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1648418697022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648418697022" />
   </component>
 </project>
